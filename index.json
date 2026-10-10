@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aioftp",
+  "versions": [
+    {
+      "commit": "11d8dd916d5f4bf1e39c48802177023e9557a953",
+      "tag": "",
+      "parsed_at": "2026-10-10T23:05:19.016117+00:00"
+    }
+  ]
+}
